@@ -1,4 +1,6 @@
 # pylint: disable=too-few-public-methods, missing-module-docstring
+"""Module defining Shape, Rectangle, and Circle classes."""
+
 import math
 
 class Shape:
